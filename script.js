@@ -10,7 +10,7 @@ const compareGuesses = (humanGuess, computerGuess, secretNumber) => {
   } else {
     return false;
   };
-}
+};
 
 const updateScore = winner => {
   if (winner === 'human') {
@@ -18,8 +18,8 @@ const updateScore = winner => {
   } else if (winner === 'computer') {
     computerScore += 1;
   };
-}
+};
 
 const advanceRound = () => {
   currentRoundNumber += 1;
-}
+};
