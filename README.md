@@ -8,7 +8,6 @@ A game between you and the computer, whoever selects the number closer to the ta
 * Javascript
 * HTML
 * CSS
-* Node.js
 * VSCode
 
 ## Setup
